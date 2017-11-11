@@ -15,12 +15,6 @@ plt.show()
 # print y
 
 
-
-import numpy as np
-import math
-import matplotlib.pyplot as plt
-
-
 # Ignore this: Just creates a signal
 
 L, f, f_s = 1000, 50, 2e3

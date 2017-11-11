@@ -1,7 +1,7 @@
 # README Test
 
-## Contributers
+## Contributors
 Sithan Kanna
 
-### Goal 
+### Goal
 Convert MATLAB files into PyCode
